@@ -32,11 +32,16 @@
 
 ## Input:
 
-### Output:
+![input](/exp10_empd1.jpg)
 
+## Output:
 
-### Name:
-### Register Number:
+![output](/exp10_empd2.png)
+
+![output](/exp10_empd3.png)
+
+### Name: Aravindhnath TR
+### Register Number: 212222100005
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
