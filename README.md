@@ -32,7 +32,7 @@
 
 ## Input:
 
-![input](/exp10_empd1.jpg)
+![input](/exp10_empd.jpg)
 
 ## Output:
 
